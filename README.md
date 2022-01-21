@@ -9,6 +9,8 @@ Controls: WASD keys to Move SPACEBAR key to Jump W: Forward A: Left S: Backwards
 
 Left Shift: Sprint
 
+Pick Up items: E key
+
 Mouse to move camera around.
 
 WallRunning: Jump Onto a Wall, when the camera tilts you can run on wall jump to then jump off wall and can be used to get to the top of buildings.
