@@ -5,6 +5,9 @@ ExoWorld
 
 How to Play:
 
+Collect Black cubes to fix the parts of the ship 5 items to win.
+Collect Purple cubes for Oxygen otherwise you will die.
+
 Controls: WASD keys to Move SPACEBAR key to Jump W: Forward A: Left S: Backwards D: Right
 
 Left Shift: Sprint
